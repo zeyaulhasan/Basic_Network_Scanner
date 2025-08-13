@@ -22,7 +22,7 @@ A command-line tool for analyzing hosts on a network using various scanning tech
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/yourusername/network-scanner.git
+git clone https://github.com/zeyaulhasan/network-scanner.git
 cd network-scanner
 ```
 
